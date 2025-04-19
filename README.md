@@ -1,5 +1,7 @@
 ## 🧠 AI Article Summarizer
 Briefly makes reading easier by using AI to summarize lengthy content into clear, concise summaries.
+![Screenshot 2025-04-20 024338](https://github.com/user-attachments/assets/d8e1b41d-bed2-47e4-abec-e4bc43d4fabc)
+
 ## 🤖 Introduction
 Summarize any kind of article with just one click using the powerful OpenAI model.  
 Whether you're a student, researcher, or just want the TL;DR — this app makes it fast and easy.  
@@ -25,7 +27,6 @@ Whether you're a student, researcher, or just want the TL;DR — this app makes 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NamanVerma21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ![image](https://github.com/user-attachments/assets/9ed8d8d8-10ab-40e8-aea6-9971797cefcf)
 
 
 ## 🌐 Socials:

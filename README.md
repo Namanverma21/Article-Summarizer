@@ -1,4 +1,4 @@
-#🧠 AI Article Summarizer
+## 🧠 AI Article Summarizer
 Briefly makes reading easier by using AI to summarize lengthy content into clear, concise summaries.
 ## 🤖 Introduction
 Summarize any kind of article with just one click using the powerful OpenAI model.  
